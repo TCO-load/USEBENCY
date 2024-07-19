@@ -3,11 +3,11 @@
 
 ## 📜 Description
 
-USEBENCY est un outil de gestion sécurisée pour vos clés USB, offrant une interface conviviale pour le chiffrement, le déverrouillage et le verrouillage de vos périphériques USB sous Windows.
+USEBENCY est un outil de gestion sécurisée pour vos clés USB, offrant une interface conviviale pour le chiffrement des fichiers dans une clé USB.
 
 ## 🌟 Fonctionnalités
 
-- 🔒 Chiffrement de clés USB avec BitLocker
+- 🔒 Chiffrement de clés USB avec cryptography
 - 🔓 Déverrouillage de clés USB chiffrées
 - 🔒 Verrouillage de clés USB chiffrées
 - 🖥️ Interface utilisateur colorée
@@ -20,7 +20,7 @@ git clone https://github.com/votre-nom/usebency.git
 Copy2. Naviguez dans le dossier du projet :
 cd usebency
 Copy3. Installez les dépendances :
-pip install colorama
+pip install colorama cryptography
 Copy
 
 Ou téléchargez les deux fichiers et executez le .bat
@@ -34,7 +34,6 @@ Ou téléchargez les deux fichiers et executez le .bat
 
 - Windows 10 ou supérieur
 - Python 3.6+
-- BitLocker activé sur votre système
 
 ## 🤝 Contribution
 
