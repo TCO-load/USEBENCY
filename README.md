@@ -3,7 +3,7 @@
 
 ## 📜 Description
 
-USEBENCY est un outil de gestion sécurisée pour vos clés USB, offrant une interface conviviale pour le chiffrement des fichiers dans une clé USB.
+USEBENCY est un outil de gestion sécurisée pour vos clés USB, offrant une interface conviviale pour le chiffrement de tout les fichiers dans une clé USB.
 
 ## 🌟 Fonctionnalités
 
