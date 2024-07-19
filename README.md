@@ -49,5 +49,5 @@ Titouan Cornille
 
 ## 🙏 Remerciements
 
-- Microsoft pour BitLocker
+- Cryptography
 - L'équipe Colorama pour leur excellente bibliothèque de couleurs dans le terminal
